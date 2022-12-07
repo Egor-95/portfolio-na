@@ -222,7 +222,7 @@ a {
 }
 
 .hero-img1 {
-  background-image: url(/img/architecture-5583025_640.jpg);
+  background-image: url(../img/architecture-5583025_640.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -236,7 +236,7 @@ a {
 }
 
 .hero-img2 {
-  background-image: url(/img/photo_2022-11-14_14-24-17.jpg);
+  background-image: url(../img/photo_2022-11-14_14-24-17.jpg);
    background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -253,7 +253,7 @@ a {
 }
 
 .hero-img3 {
-  background-image: url(/img/living-room-1835923_640.jpg);
+  background-image: url(../img/living-room-1835923_640.jpg);
    background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -694,35 +694,35 @@ a {
   background-position: center center ;
 }
 .front1 {
-   background-image: url(/img/front1.png);
+   background-image: url(../img/front1.png);
 }
 
 .front2 {
-   background-image: url(/img/front2.png);
+   background-image: url(../img/front2.png);
 }
 
 .front3 {
-   background-image: url(/img/front3.png);
+   background-image: url(../img/front3.png);
 }
 
 .front4 {
-   background-image: url(/img/front4.png);
+   background-image: url(../img/front4.png);
 }
 
 .front5 {
-   background-image: url(/img/front5.png);
+   background-image: url(../img/front5.png);
 }
 
 .front6 {
-   background-image: url(/img/front6.png);
+   background-image: url(../img/front6.png);
 }
 
 .front7 {
-   background-image: url(/img/front7.png);
+   background-image: url(../img/front7.png);
 }
 
 .front8 {
-   background-image: url(/img/front8.png);
+   background-image: url(../img/front8.png);
 }
 
 .front:after{
