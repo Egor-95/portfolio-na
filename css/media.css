@@ -1,0 +1,182 @@
+ @media (max-width: 992px) {
+    .header-contact {
+        font-size: 14px;
+        padding: 15px;
+    }
+
+    .nav__list {
+        padding: 15px 0;
+    }
+
+    .nav-link {
+        font-size: 14px;
+    }
+
+    .hero-container-heading {
+        font-size: 60px;
+
+    }
+    .hero-container-heading-block {
+        width: 525px;
+    }
+
+    .hero-container-text {
+        font-size: 18px;
+    }
+
+    .card-body {
+        font-size: 14px;
+        line-height: 21px;
+        padding: 0 5px ;
+    }
+    
+
+    .card:hover .card-body {
+        bottom: 80px;
+    }
+
+    .custom-btn {
+        font-size: 16px;
+        padding: 20px 35px;
+    }
+
+    .front .inner p {
+    font-size: 16px;
+    line-height: 22px;
+    }
+
+    .inner  {
+        font-size: 14px;
+        padding: 0 5px;
+    }
+ }
+
+ @media (max-width:768px) {
+
+     .card:hover .card-body {
+        bottom: 100px;
+    }
+
+    .about-inner {
+        display: block;
+        padding:  0 10px 60px;
+    }
+
+    .about-img {
+        margin-bottom: 15px;
+    }
+
+    .about-content {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .row-cont {
+        flex-direction: column-reverse
+    }
+    
+    .footer-container-nav {
+        margin: 0;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-nav-link  {
+        font-size: 14px;
+    }
+
+    .footer-contact-link {
+        padding: 15px;
+    }
+
+    .footer-contact-item {
+        font-size: 14px;
+    }
+
+     .social-list {
+    justify-content: space-between;
+   }
+
+
+
+
+ }
+
+
+ @media (max-width:580px) {
+
+
+   
+    .hero-container-block {
+    padding-top: 5px;
+    }
+
+   
+    .header-contact {
+        font-size: 12px;
+    }
+
+    .hero-container-heading-block {
+        width: 300px;
+    }
+
+    .hero-container-heading {
+        font-size: 30px;
+    }
+
+    .hero-container-text {
+        font-size: 16px;
+        text-align: center;
+   }
+
+   
+
+   .btn-5 {
+    line-height: 0;
+   }
+
+   .nav-link {
+    font-size: 12px;
+   }
+
+   .portfolio-text {
+     font-size: 24px;
+     margin: 30px 0 30px 0;
+   }
+
+   .custom-btn {
+    font-size: 14px;
+    padding: 15px 30px;
+   }
+
+   .about-text {
+    font-size: 24px;
+    padding: 30px 0 30px 0;
+   }
+
+   .service-heading {
+    font-size: 24px;
+   }
+
+   .recall-haeding {
+    font-size: 24px;
+   }
+
+   .contact-heading {
+    font-size: 24px;
+   }
+
+  
+   .footer-nav-item {
+    margin-right: 0;
+   }
+
+   .footer-nav-item:not(:last-child) {
+    margin-right: 13px;
+   }
+
+
+ }
